@@ -10,3 +10,4 @@ to predict concentration of certain analytes from all other analytes.
 Tableau Dashboard: https://public.tableau.com/app/profile/martin.palkovic/viz/quest_bc_ml/Exploringusecasesofmachinelearninginthegeosciences-examplesfromPrinceGeorgeBCCanada?publish=yes
 
 TDS Article:
+https://towardsdatascience.com/exploring-use-cases-of-machine-learning-in-the-geosciences-b72ea7aafe2
